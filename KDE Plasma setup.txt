@@ -1,2 +1,30 @@
 Change Task Switcher/Search for: Task Switcher/Set to: Cover View or Thumbnail Grid
+
 Turn off Screen Lock/Search for: Screen Locking/Change: Lock Screen Automatically
+
+Turn off Screen Timeout/Search for: Energy saving/Change: Screen energy saving
+
+Change global theme/Search for: Global Theme
+
+Move KRunner to center/Open Krunner and click config button
+
+Change KRunner shortcut/Search for:Shortcuts > KRunner/Add Ctrl+Space shortcut 
+
+Add virtual desktop/Search for: Virtual desktops
+
+Change shortcut for switching desktops/Search for:Shortcuts > Desktop> KWin> Switch one desktop to left/right 
+
+Add items to Autostart/Search for: Autostart
+
+Enlarge cursors/Search for: Cursors, then:
+    Make cursors bigger, then, go to /usr/share/icons/default/index.theme (make index.theme if needed) and add line [Icon Theme] (new line) inherits=#ThemeOfCursors
+
+Double click files instead of single click/Search for: General Behavior/Change: Clicking files or folders selects them
+
+Add D Drive to file search/Search for: File Search
+
+Set default programs for file types/Search for: File associations
+
+Adjust screen edges/Search for: Screen Edges
+
+Turn NumLock on for startup/Search for: Keyboard/Change: Numlock on Plasma Startup 
