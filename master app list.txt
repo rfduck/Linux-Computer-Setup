@@ -1,0 +1,26 @@
+bismuth (kwin-script-tiling-bismuth) (from OPI)
+Calibre (flatpak)
+Chrome (from OPI)
+cmus
+curl
+feh
+fzf (from git)
+gimp
+git
+gvim
+k3b
+kClock (flatpak)
+kfind
+krename
+kwrite
+latte-dock
+libreoffice
+neofetch
+OPI
+Spotify (flatpak)
+strawberry
+tmux
+veracrypt (from OPI)
+vlc
+webcamoid
+yakuake

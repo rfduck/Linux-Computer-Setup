@@ -1,0 +1,2 @@
+Change Task Switcher/Search for: Task Switcher/Set to: Cover View or Thumbnail Grid
+Turn off Screen Lock/Search for: Screen Locking/Change: Lock Screen Automatically

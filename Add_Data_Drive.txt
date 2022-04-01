@@ -1,0 +1,29 @@
+HOW TO MOUNT DATA DRIVE ON OPENSUE TUNBLEWEED
+
+#MAKE SURE SYSTEM CAN READ NTFS VOLUMES
+    sudo zypper in ntfs-3g
+
+#HAVE A BACKUP IN CASE YOU MESS SOMETHING UP
+    cp /etc/fstab /etc/fstab.bk
+
+#CREATE DIRECTORY FOR DATA DRIVE TO MOUNT TO
+    sudo mkdir /mnt/d 
+
+#MAKE A GROUP FOR THE DIRECTORY
+    sudo groupadd data
+
+#ADD YOUR USER TO THE DATA GROUP
+    sudo usermod -aG data rfegles
+
+#ADD YOUR DATA DIRECTORY TO THE DATA GROUP 
+    sudo chown -R :data /mnt/d
+
+#OPEN A TEXT EDITOR WITH ADMIN PRIVILEGES TO EDIT YOUR FSTAB
+    kdesu kate /etc/fstab
+
+#ADD TO FSTAB:
+UUID=D2A6FABEA6FAA1E1     /mnt/d    ntfs-3g   defaults,noatime        0  0
+
+#REBOOT AND HOPE YOU DIDN'T MESS ANYTHING UP
+
+#CHECK IN FILE MANAGER TO MAKE SURE YOU CAN NOW ACCESS /MNT/D
