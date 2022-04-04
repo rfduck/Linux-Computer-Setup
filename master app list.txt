@@ -5,7 +5,8 @@ cmus
 curl
 fd
 feh
-fzf (from git)
+fzf (from github)
+fzf-tab-completion (from github)
 gimp
 git
 gvim

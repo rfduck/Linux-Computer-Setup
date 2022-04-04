@@ -15,3 +15,4 @@ Spotify
 GITHUB:
 
 fzf
+fzf-tab-completion
