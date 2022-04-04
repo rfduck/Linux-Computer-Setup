@@ -1,1 +1,1 @@
-cmus curl feh gimp git gvim k3b kfind krename kwrite latte-dock libreoffice neofetch opi strawberry tmux vlc webcamoid yakuake
+cmus curl fd feh gimp git gvim k3b kfind krename kwrite latte-dock libreoffice neofetch opi strawberry tmux vlc webcamoid yakuake

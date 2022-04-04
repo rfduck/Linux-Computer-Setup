@@ -3,6 +3,7 @@ Calibre (flatpak)
 Chrome (from OPI)
 cmus
 curl
+fd
 feh
 fzf (from git)
 gimp
