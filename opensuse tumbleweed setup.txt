@@ -1,15 +1,15 @@
 1. Get wifi working
 2. Run sudo zypper ref and sudo zypper dup. Reboot. Now you're updated.
-3. Install ntfs-3g
-4. Set the time if necessary.
-5. Install Git and clone your computer setup repo
-6. Get your data drive mounted (see Add_Data_Drive) 
-7. Download and install packages on Zypper
-8. Make sure OPI is installed, and run opi chrome to get Google Chrome installed
-9. Install other programs as necessary (from OPI, flathub, etc.)
-10. Clone dotfiles repo and set up dotfiles
-11. Move other files from backup as necessary
-12. Start configuring Plasma (or other DE if installed instead)
-13. Remove and lock packages as needed
-14. Download printer drivers and set up printer. Add “ipp” and “mdns” services to Public zone in firewall so that wireless printing can work
-15. Change hostname (sudo hostnamectl set-hostname NEWHOSTNAME). Check this with command hostname.
+3. Change hostname (sudo hostnamectl set-hostname NEWHOSTNAME). Check this with command hostname.
+4. Install ntfs-3g
+5. Set the time if necessary.
+6. Install Git and clone your computer setup repo
+7. Get your data drive mounted (see Add_Data_Drive) 
+8. Download and install packages on Zypper
+9. Make sure OPI is installed, and run opi chrome to get Google Chrome installed
+10. Install other programs as necessary (from OPI, flathub, etc.)
+11. Clone dotfiles repo and set up dotfiles
+12. Move other files from backup as necessary
+13. Start configuring Plasma (or other DE if installed instead)
+14. Remove and lock packages as needed
+15. Download printer drivers and set up printer. Add “ipp” and “mdns” services to Public zone in firewall so that wireless printing can work
