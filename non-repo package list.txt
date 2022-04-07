@@ -16,3 +16,4 @@ GITHUB:
 
 fzf
 fzf-tab-completion
+gh (add repo sudo zypper addrepo https://cli.github.com/packages/rpm/gh-cli.repo ; To add login credentials, run gh auth login)

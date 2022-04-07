@@ -7,6 +7,7 @@ fd
 feh
 fzf (from github)
 fzf-tab-completion (from github)
+gh (Github)
 gimp
 git
 gvim
