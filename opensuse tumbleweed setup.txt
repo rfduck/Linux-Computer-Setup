@@ -12,3 +12,4 @@
 12. Start configuring Plasma (or other DE if installed instead)
 13. Remove and lock packages as needed
 14. Download printer drivers and set up printer. Add “ipp” and “mdns” services to Public zone in firewall so that wireless printing can work
+15. Change hostname (sudo hostnamectl set-hostname NEWHOSTNAME). Check this with command hostname.
