@@ -1,0 +1,32 @@
+HOW TO SHARE A FOLDER TO A KVM VIRTUAL MACHINE GUEST ON VIRT-MANAGER:
+
+Information from https://ostechnix.com/setup-a-shared-folder-between-kvm-host-and-guest/
+
+1. Open Machine and go to 'information' tab
+
+2. Click on 'Add Hardware'
+
+3. Click on 'Filesystem'
+
+4. Select 'virtio-9p' driver
+
+5. Select source path (folder that you want to share)
+
+6. Select target path (name of path that will be mounted to Guest file system) Example: /shared
+
+7. Add full permissions to source path if necessary
+    sudo chmod 777 /path/to/folder
+
+8. Load Virtual Machine guest
+
+9. Make a directory where your shared folder will be mounted. Example: mkdir ~/fileshare
+
+10. Open your /etc/fstab as root, and add the following to the end of the file:
+
+/TARGET_PATH /PATH-TO_MOUNT_TO   9p   trans=virtio,version=9p2000,L,rw,_netdev 0 0
+
+Save file and reboot the Guest machine
+
+11. Add a file to the folder you are sharing (if empty), then check to make sure you see the file in the file manager on the guest machine
+
+You're done! Hopefully. If something went wrong, double check your steps. Or, possibly, something changed that makes these instructions not valid anymore.
