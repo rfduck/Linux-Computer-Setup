@@ -1,0 +1,29 @@
+HOW TO INSTALL AND SET UP KVM FOR VIRTUAL MACHINES IN OPENSUSE TUMBLEWEED
+
+1. Open YAST and go to 'Virtualization'
+
+2. Click 'Install Hypervisor and Tools'
+
+3. In new window, click 'KVM Server' and 'KVM Tolls'
+
+4. Click 'Yes" when asked to configure Bridge Networking
+
+5. Enable and start libvirtd service:
+    sudo systemctl enable --now libvirtd
+
+6. Check status of libvirtd
+    systemctl status libvirtd
+
+Make sure it says both "Loaded" and "Active"
+
+7. Add user to libvirt group
+    sudo usermod -aG libvirt USERNAME
+
+8. Log out and back in. Install virt-manager or other KVM program.
+
+
+MORE INFORMATION CAN BE FOUND AT:
+
+https://ostechnix.com/install-and-configure-kvm-in-opensuse-tumbleweed/
+
+https://ostechnix.com/how-to-manage-kvm-virtual-machines-with-virt-manager/
