@@ -30,6 +30,10 @@ Adjust screen edges/Search for: Screen Edges
 Turn NumLock on for startup/Search for: Keyboard/Change: Numlock on Plasma Startup 
 
 
+### HOW TO MAKE APPLICATION LAUNCHER ON NEW PANEL LOAD WITH META KEY PRESS ###
+
+Open applicaton launcher > Configure application launcher > Keyboard shortcut > Alt+F1
+
 ### HOW TO CONFIGURE GLOBAL MENU BAR AND HIDDEN TASKBAR ###
 
 1. Right click desktop > Add Panel > Application Menu bar. Make sure bar is on top
