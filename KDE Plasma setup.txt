@@ -28,3 +28,18 @@ Set default programs for file types/Search for: File associations
 Adjust screen edges/Search for: Screen Edges
 
 Turn NumLock on for startup/Search for: Keyboard/Change: Numlock on Plasma Startup 
+
+
+### HOW TO CONFIGURE GLOBAL MENU BAR AND HIDDEN TASKBAR ###
+
+1. Right click desktop > Add Panel > Application Menu bar. Make sure bar is on top
+
+2. Download "Window Title" widget/plasmoid
+
+3. Add to top global application menu, in order: Application launcher (or menu, etc) / Window Title plasmoid / Margins separator / Global Menu / Spacer / System tray / Digital clock / Show desktop
+
+4. Add new panel to bottom (Add panel > Empty panel)
+
+5. Add Task Manager plasmoid to bottom panel
+
+6. Resize as necesssary, and configure to Auto-Hide
