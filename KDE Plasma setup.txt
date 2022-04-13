@@ -1,3 +1,5 @@
+### PERSONAL KDE PLASMA CONFIGURATION SETTINGS ###
+
 Change Task Switcher/Search for: Task Switcher/Set to: Cover View or Thumbnail Grid
 
 Turn off Screen Lock/Search for: Screen Locking/Change: Lock Screen Automatically
@@ -29,10 +31,40 @@ Adjust screen edges/Search for: Screen Edges
 
 Turn NumLock on for startup/Search for: Keyboard/Change: Numlock on Plasma Startup 
 
+#############################################
 
 ### HOW TO MAKE APPLICATION LAUNCHER ON NEW PANEL LOAD WITH META KEY PRESS ###
 
 Open applicaton launcher > Configure application launcher > Keyboard shortcut > Alt+F1
+
+
+### KDE SHORTCUTS AND MY PERSONAL SHORTCUTS ###
+
+Ctrl+F1-F4: Switch to desktop 1-4
+Ctrl+F9: Present current desktop windows
+Ctrl+F10: Present windows on all desktops 
+Meta+left click: Move Window
+Meta+right click: Resize Window
+Meta +: Zoom in
+Meta -: Zoom out
+Meta + d: View desktop
+Meta + w: overview
+Meta+pgup: Maximize window
+Meta+pgdown: Minimize window
+Meta+Ctrl+left: Switch one desktop to left
+Meta+Ctrl+down: Switch one desktop to right
+Open application launcher: Alt+F1
+
+Personal shortcuts:
+Ctrl+Space: Launch krunner
+
+
+### GLOBAL THEMES DOWNLOADED ###
+
+Dark-opensuse-global 
+Dracula
+KDE-Story
+Leaf Dark
 
 ### HOW TO CONFIGURE GLOBAL MENU BAR AND HIDDEN TASKBAR ###
 
