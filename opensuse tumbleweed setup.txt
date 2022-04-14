@@ -1,3 +1,5 @@
+First, there is the information at the link https://opensuse.github.io/openSUSE-docs-revamped-temp/best_of_post/ 
+
 1. Get wifi working
 2. Run sudo zypper ref and sudo zypper dup. Reboot. Now you're updated.
 3. Change hostname (sudo hostnamectl set-hostname NEWHOSTNAME). Check this with command hostname.
