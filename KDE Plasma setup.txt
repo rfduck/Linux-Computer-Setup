@@ -79,3 +79,15 @@ Leaf Dark
 5. Add Task Manager plasmoid to bottom panel
 
 6. Resize as necesssary, and configure to Auto-Hide
+
+#HOW TO HIDE TITLE BARS
+
+To remove all title bars in KDE plasma 5, create a Window Rule:
+
+Go to System Settings > Window Management > Window Rules > New..
+
+Under Window class (application) choose Regular Expression from the drop down and enter .* in the input.
+
+Click on "Add Property" and select Appearance & Fixes. Enable the No titlebar and frame option. Select Force from the drop down click the Yes radio option.
+
+Save and close everything, and all your title bars will disappear! This is how your settings should look:
