@@ -57,6 +57,7 @@ Open application launcher: Alt+F1
 
 Personal shortcuts:
 Ctrl+Space: Launch krunner
+Ctrl+Meta+s: Open system settings 
 
 
 ### GLOBAL THEMES DOWNLOADED ###
