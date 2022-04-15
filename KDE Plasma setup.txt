@@ -59,6 +59,7 @@ Personal shortcuts:
 Ctrl+Space: Launch krunner
 Ctrl+Meta+s: Open system settings 
 Ctrl+Shift+F1-F4: Send window to desktop 1-4
+Meta+A: Activate hidden task panel
 
 
 ### GLOBAL THEMES DOWNLOADED ###
