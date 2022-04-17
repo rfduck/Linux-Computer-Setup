@@ -25,6 +25,8 @@ Spotify (flatpak)
 strawberry
 tmux
 veracrypt (from OPI)
+vifm
+vifm-colors
 vlc
 webcamoid
 yakuake
