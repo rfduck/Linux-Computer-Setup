@@ -13,6 +13,7 @@ git
 gvim
 k3b
 kClock (flatpak)
+kdeconnect
 kfind
 krename
 krita 
