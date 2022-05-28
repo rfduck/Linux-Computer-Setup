@@ -2,13 +2,12 @@ OPI:
 
 bismuth (install from OPI - use kwin-script-tiling, select home:rxmd repo)
 
-chrome (opi chrome)
-
 veracrypt (use home:marcus_gama repo)
 
 FLATPAK:
 
 Calibre
+Chrome
 kClock
 Spotify
 

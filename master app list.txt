@@ -1,6 +1,6 @@
 bismuth (kwin-script-tiling-bismuth) (from OPI)
 Calibre (flatpak)
-Chrome (from OPI)
+Chrome (flatpak)
 cmus
 curl
 fd
