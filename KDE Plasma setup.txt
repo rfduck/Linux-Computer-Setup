@@ -40,15 +40,17 @@ Open applicaton launcher > Configure application launcher > Keyboard shortcut > 
 
 ### KDE SHORTCUTS AND MY PERSONAL SHORTCUTS ###
 
-Ctrl+F1-F4: Switch to desktop 1-4
+Alt+F3: Bring up window menu
+Ctrl+F1-F7: Switch to desktop 1-4
+Ctrl+F8: Desktop Grid
 Ctrl+F9: Present current desktop windows
 Ctrl+F10: Present windows on all desktops 
 Meta+left click: Move Window
 Meta+right click: Resize Window
-Meta +: Zoom in
-Meta -: Zoom out
-Meta + d: View desktop
-Meta + w: overview
+Meta+: Zoom in
+Meta-: Zoom out
+Meta+d: View desktop
+Meta+w: overview
 Meta+pgup: Maximize window
 Meta+pgdown: Minimize window
 Meta+Ctrl+left: Switch one desktop to left
