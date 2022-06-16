@@ -96,3 +96,7 @@ Under Window class (application) choose Regular Expression from the drop down an
 Click on "Add Property" and select Appearance & Fixes. Enable the No titlebar and frame option. Select Force from the drop down click the Yes radio option.
 
 Save and close everything, and all your title bars will disappear! This is how your settings should look:
+
+### HOW TO MAKE FLATPAK APPS WORK WITH GLOBAL MENU ###
+sudo flatpak override --talk-name=com.canonical.AppMenu.Registrar xxx.xxxxx.xxx
+(xxx.xxxxx.xxx as in com.google.Chrome)
