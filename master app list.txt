@@ -15,6 +15,7 @@ k3b
 kClock (flatpak)
 kdeconnect
 kfind
+kid3
 krename
 krita 
 kwrite
