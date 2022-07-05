@@ -21,6 +21,7 @@ krita
 kwrite
 latte-dock
 libreoffice
+minetest
 neofetch
 neovim
 OPI
