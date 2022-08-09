@@ -25,6 +25,7 @@ minetest
 neofetch
 neovim
 OPI
+Spectacle
 Spotify (flatpak)
 strawberry
 tmux
