@@ -9,6 +9,7 @@ FLATPAK:
 Calibre
 Chrome
 kClock
+krita
 Spotify
 
 GITHUB:
