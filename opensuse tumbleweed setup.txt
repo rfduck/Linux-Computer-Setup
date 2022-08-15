@@ -15,3 +15,4 @@ First, there is the information at the link https://opensuse.github.io/openSUSE-
 13. Start configuring Plasma (or other DE if installed instead)
 14. Remove and lock packages as needed
 15. Download printer drivers and set up printer. Add “ipp” and “mdns” services to Public zone in firewall so that wireless printing can work
+16. Install Microsoft fonts by installing Zypper package fetchmsttfonts
