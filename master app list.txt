@@ -17,7 +17,7 @@ kdeconnect
 kfind
 kid3
 krename
-krita 
+krita (flatpak)
 kwrite
 latte-dock
 libreoffice
