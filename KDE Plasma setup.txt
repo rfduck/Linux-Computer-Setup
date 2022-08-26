@@ -63,6 +63,9 @@ Ctrl+Meta+s: Open system settings
 Ctrl+Shift+F1-F4: Send window to desktop 1-4
 Meta+A: Activate hidden task panel
 
+### KWIN SCRIPTS ADDED ###
+Bismuth tiling
+Kwin Dynamic Workspaces
 
 ### GLOBAL THEMES DOWNLOADED ###
 
