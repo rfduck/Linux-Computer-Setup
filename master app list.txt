@@ -19,8 +19,8 @@ kid3
 krename
 krita (flatpak)
 kwrite
-latte-dock
 libreoffice
+ltris (flatpak)
 minetest
 neofetch
 neovim

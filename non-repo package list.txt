@@ -10,6 +10,7 @@ Calibre
 Chrome
 kClock
 krita
+ltris
 Spotify
 
 GITHUB:
