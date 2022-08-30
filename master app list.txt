@@ -29,6 +29,7 @@ Spectacle
 Spotify (flatpak)
 strawberry
 tmux
+tty-clock (OPI)
 veracrypt (from OPI)
 vifm
 vifm-colors

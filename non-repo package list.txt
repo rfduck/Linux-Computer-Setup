@@ -2,6 +2,8 @@ OPI:
 
 bismuth (install from OPI - use kwin-script-tiling, select home:rxmd repo)
 
+tty-clock 
+
 veracrypt (use home:marcus_gama repo)
 
 FLATPAK:
