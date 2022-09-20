@@ -5,6 +5,7 @@ cmus
 curl
 fd
 feh
+flatseal (Flatpak)
 fzf (from github)
 fzf-tab-completion (from github)
 gh (Github)
