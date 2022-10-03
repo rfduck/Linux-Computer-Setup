@@ -1,4 +1,4 @@
-bismuth (kwin-script-tiling-bismuth) (from OPI)
+bismuth (from OPI)
 Calibre (flatpak)
 Chrome (flatpak)
 cmus

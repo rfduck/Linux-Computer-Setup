@@ -1,6 +1,6 @@
 OPI:
 
-bismuth (install from OPI - use kwin-script-tiling, select home:rxmd repo)
+bismuth (install from OPI, select home:rxmd repo)
 libdvdcss2
 tty-clock 
 veracrypt (use home:marcus_gama repo)
