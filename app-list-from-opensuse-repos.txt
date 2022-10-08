@@ -1,1 +1,1 @@
-cmus curl fd feh gimp git gvim k3b kdeconnect-kde kfind kid3 krename kwrite latte-dock libreoffice minetest neofetch neovim opi spectacle strawberry tmux vifm vifm-colors vlc webcamoid yakuake
+cmus curl fd feh gimp git gvim k3b kdeconnect-kde kfind kid3 krename kwrite latte-dock libreoffice minetest neofetch neovim opi perl-File-Rename spectacle strawberry tmux vifm vifm-colors vlc webcamoid yakuake
