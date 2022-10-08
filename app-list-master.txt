@@ -27,6 +27,7 @@ minetest
 neofetch
 neovim
 OPI
+perl-File-Rename (used as file-rename)
 Spectacle
 Spotify (flatpak)
 strawberry
