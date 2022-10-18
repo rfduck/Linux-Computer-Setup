@@ -31,6 +31,8 @@ Adjust screen edges/Search for: Screen Edges
 
 Turn NumLock on for startup/Search for: Keyboard/Change: Numlock on Plasma Startup 
 
+Change Volume Step/Click on Volume in panel > Configure > Volume step
+
 #############################################
 
 ### HOW TO MAKE APPLICATION LAUNCHER ON NEW PANEL LOAD WITH META KEY PRESS ###
