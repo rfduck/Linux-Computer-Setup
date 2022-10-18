@@ -103,3 +103,9 @@ Save and close everything, and all your title bars will disappear! This is how y
 ### HOW TO MAKE FLATPAK APPS WORK WITH GLOBAL MENU ###
 sudo flatpak override --talk-name=com.canonical.AppMenu.Registrar xxx.xxxxx.xxx
 (xxx.xxxxx.xxx as in com.google.Chrome)
+
+###HOW TO ENABLE USING KEYPAD TO CONTROL MOUSE (only works on X11)###
+
+Settings > Input Devices > Keyboard > Advanced > Compatability Options > Enable 'Shift + Num Lock enables PointerKeys
+
+Settings > Accessibility > Mouse Navigation > Enable 'Use number pad to move cursor'
