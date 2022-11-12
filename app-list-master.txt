@@ -2,6 +2,7 @@ bismuth (from OPI)
 Calibre (flatpak)
 Chrome (flatpak)
 cmus
+commacd
 curl
 fd
 feh
