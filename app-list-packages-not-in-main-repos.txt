@@ -14,6 +14,7 @@ kClock
 krita
 ltris
 Spotify
+VLC
 
 GITHUB:
 
