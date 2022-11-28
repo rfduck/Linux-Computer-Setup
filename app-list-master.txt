@@ -21,7 +21,6 @@ kid3
 krename
 krita (flatpak)
 kwrite
-libdvdcss2
 libreoffice
 ltris (flatpak)
 minetest
