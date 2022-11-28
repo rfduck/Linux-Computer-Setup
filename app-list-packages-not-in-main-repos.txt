@@ -1,7 +1,6 @@
 OPI:
 
 bismuth (install from OPI, select home:rxmd repo)
-libdvdcss2
 tty-clock 
 veracrypt (use home:marcus_gama repo)
 
