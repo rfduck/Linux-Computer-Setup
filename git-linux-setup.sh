@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#WHAT THIS SCRIPT DOES: 
+#WHAT THIS SCRIPT DOES: Adds and commits any changes to the Linux setup git repo, and then pushes to the github repo 
 
 echo "Welcome to the git program for Linux Setup!"
 
