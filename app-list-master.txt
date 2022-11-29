@@ -1,8 +1,9 @@
 bismuth (from OPI)
+btop
 Calibre (flatpak)
 Chrome (flatpak)
 cmus
-commacd
+commacd (from github)
 curl
 fd
 feh
