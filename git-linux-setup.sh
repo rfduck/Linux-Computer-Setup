@@ -23,6 +23,7 @@ case $REPLY in
 
     *)
         echo -e "Invalid option"
+        exit
         ;;
 esac
 
