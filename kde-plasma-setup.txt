@@ -76,6 +76,7 @@ Dark-opensuse-global
 Dracula
 KDE-Story
 Leaf Dark
+Monochrome
 
 ### HOW TO CONFIGURE GLOBAL MENU BAR AND HIDDEN TASKBAR ###
 
