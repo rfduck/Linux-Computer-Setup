@@ -43,6 +43,7 @@ Open applicaton launcher > Configure application launcher > Keyboard shortcut > 
 ### KDE SHORTCUTS AND MY PERSONAL SHORTCUTS ###
 
 Alt+F3: Bring up window menu
+Alt+q: Quit window
 Ctrl+F1-F7: Switch to desktop 1-4
 Ctrl+F8: Desktop Grid
 Ctrl+F9: Present current desktop windows
