@@ -2,7 +2,7 @@ OPI:
 
 bismuth (install from OPI, select home:rxmd repo)
 tty-clock 
-veracrypt (use home:marcus_gama repo)
+veracrypt (use security: repo)
 
 FLATPAK:
 
