@@ -58,6 +58,7 @@ Meta+pgup: Maximize window
 Meta+pgdown: Minimize window
 Meta+Ctrl+left: Switch one desktop to left
 Meta+Ctrl+down: Switch one desktop to right
+Meta+Shift+Return: Launch selected terminal 
 Open application launcher: Alt+F1
 
 Personal shortcuts:
