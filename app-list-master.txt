@@ -31,6 +31,7 @@ neofetch
 neovim
 OPI
 perl-File-Rename (used as file-rename)
+rofi
 Spectacle
 Spotify (flatpak)
 strawberry
