@@ -33,6 +33,7 @@ neovim
 OPI
 perl-File-Rename (used as file-rename)
 playerctl
+qt5ct
 rofi
 Spectacle
 Spotify (flatpak)
