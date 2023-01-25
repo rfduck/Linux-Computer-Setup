@@ -8,6 +8,7 @@ FLATPAK:
 
 Calibre
 Chrome
+Fsearch
 Flatseal
 kClock
 krita
