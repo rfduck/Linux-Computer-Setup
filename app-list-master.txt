@@ -27,6 +27,7 @@ krita (flatpak)
 kwrite
 libreoffice
 ltris (flatpak)
+lxappearance
 minetest
 neofetch
 neovim

@@ -1,1 +1,1 @@
-btop cmus curl fd feh gimp git gvim i3 k3b kdeconnect-kde kfind kid3 kitty krename kwrite latte-dock libreoffice minetest neofetch neovim opi perl-File-Rename playerctl qt5ct rofi spectacle strawberry tmux vifm vifm-colors webcamoid yakuake
+btop cmus curl fd feh gimp git gvim i3 k3b kdeconnect-kde kfind kid3 kitty krename kwrite latte-dock libreoffice lxappearance minetest neofetch neovim opi perl-File-Rename playerctl qt5ct rofi spectacle strawberry tmux vifm vifm-colors webcamoid yakuake
