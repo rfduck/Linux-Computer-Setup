@@ -1,4 +1,6 @@
 bismuth (from OPI)
+blueman
+bumblebee-status
 btop
 Calibre (flatpak)
 Chrome (flatpak)
