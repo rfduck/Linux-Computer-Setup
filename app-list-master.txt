@@ -35,6 +35,7 @@ neofetch
 neovim
 OPI
 perl-File-Rename (used as file-rename)
+picom
 playerctl
 qt5ct
 rofi
@@ -48,4 +49,5 @@ vifm
 vifm-colors
 vlc
 webcamoid
+xwininfo
 yakuake
