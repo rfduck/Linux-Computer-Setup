@@ -38,6 +38,7 @@ perl-File-Rename (used as file-rename)
 picom
 playerctl
 qt5ct
+redshift-gtk
 rofi
 Spectacle
 Spotify (flatpak)
