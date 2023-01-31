@@ -1,0 +1,11 @@
+Blueman
+Bumblebee-status
+lxappearance
+nm-applet
+pamixer
+picom
+playerctl
+qt5ct
+redshift-gtk
+rofi
+xwininfo
