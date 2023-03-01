@@ -18,6 +18,7 @@ gimp
 git
 gvim
 i3
+i3blocks
 k3b
 kClock (flatpak)
 kdeconnect
