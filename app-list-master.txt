@@ -21,6 +21,7 @@ i3
 i3blocks
 k3b
 kClock (flatpak)
+kColorChooser (flatpak)
 kdeconnect
 kfind
 kid3
