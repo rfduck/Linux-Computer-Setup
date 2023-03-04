@@ -52,5 +52,6 @@ vifm
 vifm-colors
 vlc
 webcamoid
+xev
 xwininfo
 yakuake
