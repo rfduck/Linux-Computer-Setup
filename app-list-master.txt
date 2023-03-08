@@ -19,6 +19,7 @@ git
 gvim
 i3
 i3blocks
+i3-layouts (pip)
 k3b
 kClock (flatpak)
 kColorChooser (flatpak)

@@ -23,3 +23,7 @@ commacd https://github.com/shyiko/commacd
 fzf
 fzf-tab-completion
 gh (add repo sudo zypper addrepo https://cli.github.com/packages/rpm/gh-cli.repo ; To add login credentials, run gh auth login)
+
+PIP:
+
+i3-layouts
