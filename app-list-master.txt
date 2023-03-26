@@ -43,6 +43,7 @@ playerctl
 qt5ct
 redshift-gtk
 rofi
+rofi-calc
 Spectacle
 Spotify (flatpak)
 strawberry
