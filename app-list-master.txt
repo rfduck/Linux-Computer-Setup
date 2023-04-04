@@ -34,10 +34,15 @@ libreoffice
 ltris (flatpak)
 lxappearance
 minetest
+mpc
+mpd 
+mpDris2
+ncmpcpp
 neofetch
 neovim
 OPI
 perl-File-Rename (used as file-rename)
+picard
 picom
 playerctl
 qt5ct
