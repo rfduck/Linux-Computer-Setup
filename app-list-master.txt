@@ -46,6 +46,7 @@ picard
 picom
 playerctl
 qt5ct
+rclone
 redshift-gtk
 rofi
 rofi-calc
