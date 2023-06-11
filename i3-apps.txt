@@ -1,5 +1,4 @@
 Blueman
-Bumblebee-status
 lxappearance
 nm-applet
 pamixer
