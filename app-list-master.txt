@@ -12,13 +12,16 @@ fsearch (Flatpak)
 flatseal (Flatpak)
 fzf (from github)
 fzf-tab-completion (from github)
+gammastep
 gh (Github)
 gimp
 git
+grim
 gvim
 i3
 i3blocks
 i3-layouts (pip)
+imv
 k3b
 kClock (flatpak)
 kColorChooser (flatpak)
@@ -49,15 +52,19 @@ rclone
 redshift-gtk
 rofi
 rofi-calc
+slurp
 Spectacle
 Spotify (flatpak)
 strawberry
+sway
 tmux
 tty-clock (OPI)
 veracrypt (from OPI)
 vifm
 vifm-colors
 vlc
+waybar
+wofi
 webcamoid
 xev
 xwininfo
