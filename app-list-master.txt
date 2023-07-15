@@ -68,4 +68,5 @@ wofi
 webcamoid
 xev
 xwininfo
+yadm
 yakuake
