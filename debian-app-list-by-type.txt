@@ -1,0 +1,51 @@
+FROM DEBIAN REPOSITORIES:
+blueman 
+btop
+curl
+fd-find
+feh
+flatpak
+fzf
+gammastep
+gh
+git
+grim
+imv
+k3b
+kde-spectacle
+kitty
+lxappearance
+mpc
+mpd
+mpdris2
+ncmpcpp
+playerctl
+qt5ct
+rclone
+rename
+slurp
+sway
+swaybg
+swayidle
+swaylock
+tmux
+vifm
+vim
+waybar
+yadm
+
+FROM FLATHUB:
+Calibre 
+Flatseal
+Fsearch
+Gimp 
+Google Chrome
+Libreoffice 
+Minetest 
+Spotify 
+Strawberry 
+VLC 
+Webcamoid 
+
+FROM OTHER SOURCES:
+veracrypt (.deb package)

@@ -1,0 +1,46 @@
+blueman 
+btop
+calibre (FP)
+curl
+fd-find
+feh
+flatpak
+flatseal (FP)
+fsearch (FP)
+fzf
+gammastep
+gh
+gimp (FP)
+git
+google Chrome (FP)
+grim
+imv
+k3b
+kde-spectacle
+kitty
+libreoffice (FP)
+lxappearance
+minetest (FP)
+mpc
+mpd
+mpdris2
+ncmpcpp
+playerctl
+qt5ct
+rclone
+rename
+slurp
+spotify (FP)
+strawberry (FP)
+sway
+swaybg
+swayidle
+swaylock
+tmux
+vLC (FP)
+veracrypt (.deb)
+vifm
+vim
+waybar
+webcamoid (FP)
+yadm
