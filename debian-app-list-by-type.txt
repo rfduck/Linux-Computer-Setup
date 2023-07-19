@@ -19,6 +19,7 @@ mpc
 mpd
 mpdris2
 ncmpcpp
+pipewire-audio
 playerctl
 qt5ct
 rclone
@@ -32,6 +33,7 @@ tmux
 vifm
 vim-gtk3
 waybar
+wireplumber-doc
 yadm
 
 FROM FLATHUB:

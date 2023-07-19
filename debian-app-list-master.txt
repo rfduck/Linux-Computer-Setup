@@ -25,6 +25,7 @@ mpc
 mpd
 mpdris2
 ncmpcpp
+pipewire-audio
 playerctl
 qt5ct
 rclone
@@ -43,4 +44,5 @@ vifm
 vim-gtk3
 waybar
 webcamoid (FP)
+wireplumber-doc
 yadm
