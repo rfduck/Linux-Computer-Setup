@@ -30,7 +30,7 @@ swayidle
 swaylock
 tmux
 vifm
-vim
+vim-gtk3
 waybar
 yadm
 

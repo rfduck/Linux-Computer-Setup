@@ -40,7 +40,7 @@ tmux
 vLC (FP)
 veracrypt (.deb)
 vifm
-vim
+vim-gtk3
 waybar
 webcamoid (FP)
 yadm
