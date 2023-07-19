@@ -1,6 +1,7 @@
 blueman 
 btop
 calibre (FP)
+cups
 curl
 fd-find
 feh
