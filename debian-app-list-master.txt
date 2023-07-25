@@ -7,7 +7,7 @@ fd-find
 feh
 flatpak
 flatseal (FP)
-fsearch (FP)
+fsearch (deb)
 fzf
 gammastep
 gh

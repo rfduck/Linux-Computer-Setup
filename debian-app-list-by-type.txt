@@ -44,7 +44,6 @@ yadm
 FROM FLATHUB:
 Calibre 
 Flatseal
-Fsearch
 Gimp 
 Google Chrome
 Libreoffice 
@@ -55,4 +54,5 @@ VLC
 Webcamoid 
 
 FROM OTHER SOURCES:
+fsearch (.deb package)
 veracrypt (.deb package)
