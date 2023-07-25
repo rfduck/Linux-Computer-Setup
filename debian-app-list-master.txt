@@ -15,7 +15,9 @@ gimp (FP)
 git
 google Chrome (FP)
 grim
+gvfs-backends
 imv
+jmtpfs
 k3b
 kde-spectacle
 kitty
@@ -25,6 +27,7 @@ minetest (FP)
 mpc
 mpd
 mpdris2
+mtp-tools
 ncmpcpp
 pipewire-audio
 playerctl

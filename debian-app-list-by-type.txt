@@ -11,7 +11,9 @@ gammastep
 gh
 git
 grim
+gvfs-backends
 imv
+jmtpfs
 k3b
 kde-spectacle
 kitty
@@ -19,6 +21,7 @@ lxappearance
 mpc
 mpd
 mpdris2
+mtp-tools
 ncmpcpp
 pipewire-audio
 playerctl
