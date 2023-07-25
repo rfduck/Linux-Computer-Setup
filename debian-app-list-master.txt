@@ -38,6 +38,7 @@ sway
 swaybg
 swayidle
 swaylock
+thunar
 tmux
 vLC (FP)
 veracrypt (.deb)
