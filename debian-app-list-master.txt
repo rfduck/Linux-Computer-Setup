@@ -49,5 +49,6 @@ vifm
 vim-gtk3
 waybar
 webcamoid (FP)
+wev
 wireplumber-doc
 yadm

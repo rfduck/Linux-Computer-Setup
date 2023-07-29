@@ -38,6 +38,7 @@ tmux
 vifm
 vim-gtk3
 waybar
+wev
 wireplumber-doc
 yadm
 
