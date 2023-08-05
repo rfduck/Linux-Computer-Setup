@@ -56,4 +56,5 @@ Webcamoid
 
 FROM OTHER SOURCES:
 fsearch (.deb package)
+neovim (downloaded binary archive)
 veracrypt (.deb package)

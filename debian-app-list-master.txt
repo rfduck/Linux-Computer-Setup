@@ -29,6 +29,7 @@ mpd
 mpdris2
 mtp-tools
 ncmpcpp
+neovim
 pipewire-audio
 playerctl
 qt5ct
