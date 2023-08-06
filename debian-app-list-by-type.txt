@@ -1,6 +1,7 @@
 FROM DEBIAN REPOSITORIES:
 blueman 
 btop
+cmake
 cups
 curl
 fd-find
@@ -8,6 +9,7 @@ feh
 flatpak
 fzf
 gammastep
+gcc
 gh
 git
 grim
@@ -18,6 +20,7 @@ k3b
 kde-spectacle
 kitty
 lxappearance
+make
 mpc
 mpd
 mpdris2

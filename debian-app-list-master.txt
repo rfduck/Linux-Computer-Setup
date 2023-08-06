@@ -1,6 +1,7 @@
 blueman 
 btop
 calibre (FP)
+cmake
 cups
 curl
 fd-find
@@ -10,6 +11,7 @@ flatseal (FP)
 fsearch (deb)
 fzf
 gammastep
+gcc
 gh
 gimp (FP)
 git
@@ -23,6 +25,7 @@ kde-spectacle
 kitty
 libreoffice (FP)
 lxappearance
+make
 minetest (FP)
 mpc
 mpd
