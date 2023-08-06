@@ -52,4 +52,5 @@ waybar
 webcamoid (FP)
 wev
 wireplumber-doc
+wl-clipboard
 yadm
