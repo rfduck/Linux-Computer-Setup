@@ -8,6 +8,7 @@ fd-find
 feh
 flatpak
 flatseal (FP)
+fonts-font-awesome
 fsearch (deb)
 fzf
 gammastep

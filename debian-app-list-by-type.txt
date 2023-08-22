@@ -7,6 +7,7 @@ curl
 fd-find
 feh
 flatpak
+fonts-font-awesome
 fzf
 gammastep
 gcc
