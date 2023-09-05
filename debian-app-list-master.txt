@@ -1,6 +1,7 @@
 blueman 
 btop
 calibre (FP)
+cheese
 cmake
 cups
 curl

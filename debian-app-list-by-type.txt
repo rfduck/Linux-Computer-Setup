@@ -1,6 +1,7 @@
 FROM DEBIAN REPOSITORIES:
 blueman 
 btop
+cheese
 cmake
 cups
 curl
