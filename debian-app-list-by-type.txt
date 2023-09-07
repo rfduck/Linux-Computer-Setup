@@ -57,11 +57,11 @@ Gimp
 Google Chrome
 Libreoffice 
 Minetest 
+OBS Studio
 Openshot Video Editor
 Spotify 
 Strawberry 
 VLC 
-Webcamoid 
 
 FROM OTHER SOURCES:
 fsearch (.deb package)

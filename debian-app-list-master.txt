@@ -35,9 +35,9 @@ mtp-tools
 ncal
 ncmpcpp
 neovim
-obs
+obs (FP)
 okular
-openshot
+openshot )FP)
 pipewire-audio
 playerctl
 qt5ct
@@ -52,12 +52,11 @@ swayidle
 swaylock
 thunar
 tmux
-vLC (FP)
+vlc (FP)
 veracrypt (.deb)
 vifm
 vim-gtk3
 waybar
-webcamoid (FP)
 wev
 wireplumber-doc
 wl-clipboard
