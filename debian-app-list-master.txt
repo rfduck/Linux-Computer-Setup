@@ -36,6 +36,7 @@ mtp-tools
 ncal
 ncmpcpp
 neovim
+okular
 openshot
 pipewire-audio
 playerctl
