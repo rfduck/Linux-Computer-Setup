@@ -1,7 +1,6 @@
 FROM DEBIAN REPOSITORIES:
 blueman 
 btop
-cheese
 cmake
 cups
 curl
@@ -29,6 +28,7 @@ mpdris2
 mtp-tools
 ncal
 ncmpcpp
+obs
 okular
 pipewire-audio
 playerctl

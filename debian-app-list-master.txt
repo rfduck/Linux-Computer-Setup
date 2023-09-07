@@ -1,7 +1,6 @@
 blueman 
 btop
 calibre (FP)
-cheese
 cmake
 cups
 curl
@@ -36,6 +35,7 @@ mtp-tools
 ncal
 ncmpcpp
 neovim
+obs
 okular
 openshot
 pipewire-audio
