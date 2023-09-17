@@ -28,7 +28,6 @@ mpdris2
 mtp-tools
 ncal
 ncmpcpp
-obs
 okular
 pipewire-audio
 playerctl
