@@ -34,6 +34,7 @@ playerctl
 qt5ct
 rclone
 rename
+ripgrep
 slurp
 sway
 swaybg

@@ -43,6 +43,7 @@ playerctl
 qt5ct
 rclone
 rename
+ripgrep
 slurp
 spotify (FP)
 strawberry (FP)
