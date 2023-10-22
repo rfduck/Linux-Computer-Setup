@@ -17,6 +17,7 @@ gh
 gimp (FP)
 git
 google Chrome (FP)
+google Earth (FP)
 grim
 gvfs-backends
 imv

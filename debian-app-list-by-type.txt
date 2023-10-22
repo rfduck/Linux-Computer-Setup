@@ -55,6 +55,7 @@ Calibre
 Flatseal
 Gimp 
 Google Chrome
+Google Earth
 Libreoffice 
 Minetest 
 OBS Studio
