@@ -4,6 +4,7 @@ btop
 cmake
 cups
 curl
+distrobox
 fd-find
 feh
 flatpak
@@ -31,6 +32,7 @@ ncmpcpp
 okular
 pipewire-audio
 playerctl
+podman
 qt5ct
 rclone
 rename

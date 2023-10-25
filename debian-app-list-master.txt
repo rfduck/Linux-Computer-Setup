@@ -4,6 +4,7 @@ calibre (FP)
 cmake
 cups
 curl
+distrobox
 fd-find
 feh
 flatpak
@@ -41,6 +42,7 @@ okular
 openshot )FP)
 pipewire-audio
 playerctl
+podman
 qt5ct
 rclone
 rename
