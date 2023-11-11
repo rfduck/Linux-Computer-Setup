@@ -1,5 +1,6 @@
 blueman 
 btop
+build-essential
 calibre (FP)
 cmake
 cups

@@ -1,6 +1,7 @@
 FROM DEBIAN REPOSITORIES:
 blueman 
 btop
+build-essential
 cmake
 cups
 curl
