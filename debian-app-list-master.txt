@@ -48,6 +48,7 @@ qt5ct
 rclone
 rename
 ripgrep
+rsync
 slurp
 spotify (FP)
 strawberry (FP)

@@ -38,6 +38,7 @@ qt5ct
 rclone
 rename
 ripgrep
+rsync
 slurp
 sway
 swaybg
