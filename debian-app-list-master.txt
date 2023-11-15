@@ -59,6 +59,7 @@ swaylock
 thunar
 tofi
 tmux
+ttf-mscorefonts-installer
 vlc (FP)
 veracrypt (.deb)
 vifm

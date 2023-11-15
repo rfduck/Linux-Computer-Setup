@@ -47,6 +47,7 @@ swaylock
 thunar
 tofi
 tmux
+ttf-mscorefonts-installer
 vifm
 vim-gtk3
 waybar
