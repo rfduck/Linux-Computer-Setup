@@ -8,6 +8,7 @@ curl
 distrobox
 fd-find
 feh
+firefox-esr 
 flatpak
 fonts-font-awesome
 fzf
@@ -58,6 +59,7 @@ yadm
 
 FROM FLATHUB:
 Calibre 
+Firefox
 Flatseal
 Gimp 
 Google Chrome

@@ -8,6 +8,8 @@ curl
 distrobox
 fd-find
 feh
+firefox-esr
+firefox (FP)
 flatpak
 flatseal (FP)
 fonts-font-awesome
