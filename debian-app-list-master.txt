@@ -66,6 +66,7 @@ vlc (FP)
 veracrypt (.deb)
 vifm
 vim-gtk3
+vivaldi (FP)
 waybar
 wev
 wireplumber-doc
