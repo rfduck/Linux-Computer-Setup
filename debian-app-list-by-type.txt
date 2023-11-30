@@ -6,6 +6,7 @@ cmake
 cups
 curl
 distrobox
+emacs
 fd-find
 feh
 firefox-esr 
