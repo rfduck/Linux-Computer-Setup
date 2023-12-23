@@ -47,6 +47,7 @@ openshot )FP)
 pipewire-audio
 playerctl
 podman
+qalc
 qt5ct
 rclone
 rename
