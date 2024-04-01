@@ -74,3 +74,4 @@ wev
 wireplumber-doc
 wl-clipboard
 yadm
+zoxide
