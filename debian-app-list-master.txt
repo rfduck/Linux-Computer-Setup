@@ -74,5 +74,6 @@ waybar
 wev
 wireplumber-doc
 wl-clipboard
+xfce4-appfinder
 yadm
 zoxide
