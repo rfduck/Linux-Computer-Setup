@@ -43,6 +43,7 @@ rename
 ripgrep
 rsync
 slurp
+stow
 sway
 swaybg
 swayidle

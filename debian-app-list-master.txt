@@ -56,6 +56,7 @@ rsync
 slurp
 spotify (FP)
 strawberry (FP)
+stow
 sway
 swaybg
 swayidle
