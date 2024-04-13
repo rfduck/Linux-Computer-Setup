@@ -1,0 +1,55 @@
+blueman 
+btop 
+calibre (flatpak)
+cups 
+curl 
+distrobox 
+fd 
+flatpak 
+flatseal (flatpak)
+fontawesome-fonts 
+fsearch (OPI)
+fzf 
+gammastep 
+gimp (flatpak)
+google chrome (flatpak)
+google earth (flatpak)
+grim 
+imv 
+k3b 
+kitty 
+libreoffice (flatpak)
+lxappearance 
+minetest (flatpak)
+mtp-tools 
+neovim 
+obs studio (flatpak)
+openshot video editor (flatpak)
+opi 
+perl-File-Rename 
+picard (flatpak)
+playerctl 
+podman 
+qalculate 
+qt5ct 
+rclone 
+ripgrep 
+rsync 
+slurp 
+spotify (flatpak)
+stow 
+strawberry (flatpak)
+sway 
+swaybg 
+swayidle 
+swaylock 
+vLC (flatpak)
+veracrypt (OPI)
+vifm 
+vifm-colors 
+vim 
+vivaldi (flatpak)
+waybar 
+wev 
+wl-clipboard 
+zoxide
