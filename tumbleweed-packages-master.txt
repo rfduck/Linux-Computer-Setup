@@ -5,6 +5,7 @@ cups
 curl 
 distrobox 
 fd 
+fetchmsttfonts
 flatpak 
 flatseal (flatpak)
 fontawesome-fonts 

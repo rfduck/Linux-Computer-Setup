@@ -6,6 +6,7 @@ cups
 curl 
 distrobox 
 fd 
+fetchmsttfonts
 flatpak 
 fontawesome-fonts 
 fzf 
