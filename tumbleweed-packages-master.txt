@@ -1,3 +1,4 @@
+albert (OPI)
 blueman 
 btop 
 calibre (flatpak)

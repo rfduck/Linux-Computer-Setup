@@ -58,5 +58,6 @@ vLC
 vivaldi
 
 FROM OPI:
+albert
 fsearch
 veracrypt
