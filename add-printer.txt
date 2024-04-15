@@ -1,0 +1,14 @@
+HOW TO SET UP PRINTER ON OPENSUSE
+
+Printer name: Brother MFC-J870DW
+Printer IP Address: 192.168.0.100
+
+1. Download (or copy) Brother Printer driver. Unzip into folder
+2. Run sudo bash linux-brprinter-installer
+3. Go through install process. Select Automic for URI or whatever that was.
+4. Turn off firewall
+5. Open Yast, go to Printer, go to Add Printer
+6. Go to "search for more"
+7. Select IPP version of Brother printer, and the CUPS driverless driver
+8. Print a test page
+9. Turn firewall back on. Add IPP and MDNS services to zone
