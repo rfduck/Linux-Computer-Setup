@@ -50,6 +50,7 @@ google earth
 libreoffice
 minetest
 obs studio
+okular
 openshot video editor
 picard
 spotify

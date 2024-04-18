@@ -25,6 +25,7 @@ minetest (flatpak)
 mtp-tools 
 neovim 
 obs studio (flatpak)
+okular (flatpak)
 openshot video editor (flatpak)
 opi 
 perl-File-Rename 
