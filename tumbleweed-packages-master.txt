@@ -10,6 +10,7 @@ flatpak
 flatseal (flatpak)
 fontawesome-fonts 
 fsearch (OPI)
+fuzzel
 fzf 
 gammastep 
 gimp (flatpak)

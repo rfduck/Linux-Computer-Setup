@@ -9,6 +9,7 @@ fd
 fetchmsttfonts
 flatpak 
 fontawesome-fonts 
+fuzzel
 fzf 
 gammastep 
 grim 
