@@ -4,6 +4,7 @@ calibre (flatpak)
 cups 
 curl 
 distrobox 
+fastfetch
 fd 
 fetchmsttfonts
 flatpak 
