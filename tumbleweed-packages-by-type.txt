@@ -54,7 +54,7 @@ minetest
 obs studio
 okular
 openshot video editor
-picard
+puddletag
 spotify
 strawberry
 vLC

@@ -31,9 +31,9 @@ okular (flatpak)
 openshot video editor (flatpak)
 opi 
 perl-File-Rename 
-picard (flatpak)
 playerctl 
 podman 
+puddletag (flatpak)
 qalculate 
 qt5ct 
 rclone 
