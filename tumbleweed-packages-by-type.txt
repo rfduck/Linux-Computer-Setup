@@ -41,6 +41,7 @@ vim
 waybar 
 wev 
 wl-clipboard 
+yazi
 zoxide
 
 FROM FLATPAK:

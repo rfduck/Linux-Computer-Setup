@@ -56,4 +56,5 @@ vivaldi (flatpak)
 waybar 
 wev 
 wl-clipboard 
+yazi
 zoxide
