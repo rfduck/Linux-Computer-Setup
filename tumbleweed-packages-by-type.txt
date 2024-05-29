@@ -1,5 +1,6 @@
 FROM TUMBLEWEED REPOS:
 
+bat
 blueman 
 btop 
 cups 
