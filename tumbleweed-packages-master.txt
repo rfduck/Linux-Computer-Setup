@@ -32,6 +32,7 @@ obs studio (flatpak)
 okular (flatpak)
 openshot video editor (flatpak)
 opi 
+peazip (flatpak)
 perl-File-Rename 
 playerctl 
 podman 
