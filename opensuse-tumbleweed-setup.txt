@@ -3,16 +3,19 @@ First, there is the information at the link https://opensuse.github.io/openSUSE-
 1. Get wifi working
 2. Run sudo zypper ref and sudo zypper dup. Reboot. Now you're updated.
 3. Change hostname (sudo hostnamectl set-hostname NEWHOSTNAME). Check this with command hostname.
-4. Install ntfs-3g
-5. Set the time if necessary.
-6. Install Git and clone your computer setup repo
-7. Get your data drive mounted (see Add_Data_Drive) 
-8. Download and install packages on Zypper
-9. Make sure OPI is installed, and run opi chrome to get Google Chrome installed
-10. Install other programs as necessary (from OPI, flathub, etc.)
-11. Clone dotfiles repo and set up dotfiles
-12. Move other files from backup as necessary
-13. Start configuring Plasma (or other DE if installed instead)
-14. Remove and lock packages as needed
-15. Download printer drivers and set up printer. Add “ipp” and “mdns” services to Public zone in firewall so that wireless printing can work
-16. Install Microsoft fonts by installing Zypper package fetchmsttfonts
+4. Install git and stow
+5. Install ntfs-3g
+6. Set the time if necessary.
+7. Install Git and clone your computer setup repo
+8. Get your data drive mounted (see add-data-drive.txt) 
+9. Download and install packages on Zypper
+10. Install opi by running sudo zypper in opi
+11. Install other programs as necessary (from OPI, flathub, etc.)
+12. Clone dotfiles repo and set up dotfiles
+13. Move other files from backup as necessary
+14. Move rclone config file from backup
+15. Move scripts into .local/bin and make them executable with sudo chmod u+x *
+16. Start configuring DE or window manager
+17. Remove and lock packages as needed
+18. Download printer drivers and set up printer. Add “ipp” and “mdns” services to Public zone in firewall so that wireless printing can work. See add-printer.txt
+19. Install Microsoft fonts by installing Zypper package fetchmsttfonts
