@@ -4,20 +4,21 @@ First, there is the information at the link https://opensuse.github.io/openSUSE-
 2. Run sudo zypper ref and sudo zypper dup. Reboot. Now you're updated.
 3. Change hostname (sudo hostnamectl set-hostname NEWHOSTNAME). Check this with command hostname.
 4. Install git and stow
-5. Install ntfs-3g
-6. Set the time if necessary.
-7. Install Git and clone your computer setup repo
-8. Get your data drive mounted (see add-data-drive.txt) 
-9. Download and install packages on Zypper
-10. Install opi by running sudo zypper in opi
-11. Install other programs as necessary (from OPI, flathub, etc.)
-12. Clone dotfiles repo and set up dotfiles
-13. Move other files from backup as necessary
-14. Move flatpak config files (libreoffice, minetest, etc.)
-15. Move rclone config file from backup
-16. Move scripts into .local/bin and make them executable with sudo chmod u+x *
-17. Move ssh key for github into proper folder
-18. Start configuring DE or window manager
-19. Remove and lock packages as needed
-20. Download printer drivers and set up printer. Add “ipp” and “mdns” services to Public zone in firewall so that wireless printing can work. See add-printer.txt
-21. Install Microsoft fonts by installing Zypper package fetchmsttfonts
+5. Move ssh key for github into proper folder
+6. Install ntfs-3g
+7. Set the time if necessary.
+8. Install Git and clone your computer setup repo
+9. Setup git by doing "git config --global user.email "email" and git config --global user.name "name"
+10. Get your data drive mounted (see add-data-drive.txt) 
+11. Download and install packages on Zypper
+12. Install opi by running sudo zypper in opi
+13. Install other programs as necessary (from OPI, flathub, etc.)
+14. Clone dotfiles repo and set up dotfiles
+15. Move other files from backup as necessary
+16. Move flatpak config files (libreoffice, minetest, etc.)
+17. Move rclone config file from backup
+18. Move scripts into .local/bin and make them executable with sudo chmod u+x *
+19. Start configuring DE or window manager
+20. Remove and lock packages as needed
+21. Download printer drivers and set up printer. Add “ipp” and “mdns” services to Public zone in firewall so that wireless printing can work. See add-printer.txt
+22. Install Microsoft fonts by installing Zypper package fetchmsttfonts
