@@ -20,6 +20,7 @@ imv
 k3b 
 kitty 
 lxappearance 
+mako
 mtp-tools 
 neovim 
 opi 

@@ -25,6 +25,7 @@ k3b
 kitty 
 libreoffice (flatpak)
 lxappearance 
+mako
 minetest (flatpak)
 mtp-tools 
 neovim 
