@@ -13,10 +13,11 @@ First, there is the information at the link https://opensuse.github.io/openSUSE-
 11. Install other programs as necessary (from OPI, flathub, etc.)
 12. Clone dotfiles repo and set up dotfiles
 13. Move other files from backup as necessary
-14. Move rclone config file from backup
-15. Move scripts into .local/bin and make them executable with sudo chmod u+x *
-16. Move ssh key for github into proper folder
-17. Start configuring DE or window manager
-18. Remove and lock packages as needed
-19. Download printer drivers and set up printer. Add “ipp” and “mdns” services to Public zone in firewall so that wireless printing can work. See add-printer.txt
-20. Install Microsoft fonts by installing Zypper package fetchmsttfonts
+14. Move flatpak config files (libreoffice, minetest, etc.)
+15. Move rclone config file from backup
+16. Move scripts into .local/bin and make them executable with sudo chmod u+x *
+17. Move ssh key for github into proper folder
+18. Start configuring DE or window manager
+19. Remove and lock packages as needed
+20. Download printer drivers and set up printer. Add “ipp” and “mdns” services to Public zone in firewall so that wireless printing can work. See add-printer.txt
+21. Install Microsoft fonts by installing Zypper package fetchmsttfonts
