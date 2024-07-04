@@ -15,6 +15,7 @@ fontawesome-fonts
 fuzzel
 fzf 
 gammastep 
+glow
 grim 
 imv 
 k3b 

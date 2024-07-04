@@ -17,6 +17,7 @@ fuzzel
 fzf 
 gammastep 
 gimp (flatpak)
+glow
 google chrome (flatpak)
 google earth (flatpak)
 grim 
